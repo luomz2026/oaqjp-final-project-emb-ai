@@ -48,4 +48,5 @@ def emotion_detector(text_to_analyse: str):
     return emotion_scores
 
 
+
 print(emotion_detector("I love this new technology."))
